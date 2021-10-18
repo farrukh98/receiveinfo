@@ -26,6 +26,7 @@ export const Title = styled.p`
 font-size: 25px;
 font-weight: bold;
 color: blue;
+font-family:sans-serif;
 `
 
 export const Body = styled.p`
