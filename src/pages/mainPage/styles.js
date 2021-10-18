@@ -13,7 +13,7 @@ background-color: whitesmoke;
 export const CardsBox = styled.div`
 width: 30%;
 margin: 15px 0;
-border: 2px solid white;
+border: 2px solid darkgreen;
 border-radius: 10px;
 box-shadow:20 20px white;
 padding: 10px;
